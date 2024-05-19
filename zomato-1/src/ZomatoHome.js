@@ -27,7 +27,7 @@ export const ZomatoHome = () => {
 
         </div>
         <div className='txt'>
-          <h1 >Find the best restaurants, cafés and bars in India</h1>
+          <h1 >Find the  restaurants, cafés and bars in India</h1>
         </div>
 
 
